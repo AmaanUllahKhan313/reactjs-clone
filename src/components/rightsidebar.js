@@ -6,7 +6,7 @@ class RightSideBar extends React.Component {
     return(
       <div className="right-sidebar-content">
         <div className="sidebar-block">
-          <span>Stories</span>
+          <span>Offers</span>
           <a href="#">Settings</a>
           <a>.</a>
           <a href="#">Archive</a>

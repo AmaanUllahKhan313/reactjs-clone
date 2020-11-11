@@ -7,10 +7,10 @@ class LeftSideBar extends React.Component {
       <div className="left-sidebar-content">
         <ul className="list-group">
           <li className="list-group-item">
-            <span className="glyphicon glyphicon-user"></span> Lav Hinsu
+            <span className="glyphicon glyphicon-user"></span> Profile
           </li>
           <li className="list-group-item">
-          <span className="glyphicon glyphicon-tasks"></span> News Feed
+          <span className="glyphicon glyphicon-tasks"></span> Search work for me
           </li>
           <li className="list-group-item">
           <span className="glyphicon glyphicon-envelope"></span> Messenger

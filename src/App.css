@@ -1,5 +1,6 @@
 .brandIcon{
-  height: 20px;
+  height: 50px;
+  width:100px;
 }
 
 .n-form-control{
@@ -9,11 +10,11 @@
 }
 
 .n-container{
-  background-color: #e9ebee;
+  background-color: #FFE5D6;
 }
 
 body{
-  background-color: #e9ebee;
+  background-color: #E1F0C4;
 }
 
 .left-sidebar{
@@ -25,13 +26,13 @@ body{
 }
 
 .navbar-header{
-  background-color: #4267b2
+  background-color: #5E4C5A
 }
 
 
 @media (min-width: 768px){
   .n-navbar{
-    background-color: #4267b2
+    background-color: #5E4C5A
   }
 
   .n-btn{
@@ -56,6 +57,7 @@ body{
     position: relative;
     word-wrap: break-word;
     padding-left: 150px;
+    color: white;
   }
 
   .right-sidebar{
@@ -74,7 +76,7 @@ body{
   }
 
   .left-sidebar-content .list-group-item {
-    background-color: #e9ebee;
+    background-color: #6BAB90;
     border: 0px;
   }
 
@@ -82,7 +84,7 @@ body{
     background-color: white;
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid #e8e7e7;
+    border: 1px solid #6BAB90;
   }
   
   .sidebar-block a{

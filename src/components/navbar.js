@@ -26,7 +26,7 @@ class NavBar extends React.Component {
               <button type="submit" className="btn btn-default n-btn"><div className="glyphicon glyphicon-search"> </div></button>
             </form>
             <ul className="nav navbar-nav navbar-right">
-              <li><a href="#" className="n-a">Lav</a></li>
+              <li><a href="#" className="n-a">Profile</a></li>
               <li><a href="#" className="n-a">Home</a></li>
               <li className="dropdown">
                 <a href="#" className="dropdown-toggle n-a" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span className="caret"></span></a>
